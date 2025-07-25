@@ -1,0 +1,48 @@
+# Основные настройки бота - ЗАМЕНИ НА СВОИ ДАННЫЕ
+
+# Telegram Bot Token от @BotFather - СОЗДАЙ БОТА И ВСТАВЬ ТОКЕН
+TELEGRAM_BOT_TOKEN=7752856423:AAEdsQAY2OWbymfdPw5o6lql2doXAHFC_pw
+
+# OpenAI API Key - ВРЕМЕННО ОСТАВЛЯЕМ ПУСТЫМ
+OPENAI_API_KEY=TEMP_PLACEHOLDER
+
+# CloudPayments настройки - ВРЕМЕННО ОСТАВЛЯЕМ ПУСТЫМИ
+CLOUDPAYMENTS_PUBLIC_ID=TEMP_PLACEHOLDER
+CLOUDPAYMENTS_API_SECRET=TEMP_PLACEHOLDER
+
+# База данных SQLite для разработки (не требует установки PostgreSQL)
+DATABASE_URL=sqlite:///bot_database.db
+
+# Цены тарифов в рублях - МОЖЕШЬ ИЗМЕНИТЬ
+TARIFF_1_PRICE=1000
+TARIFF_2_PRICE=1500
+
+# Реферальный бонус в рублях - МОЖЕШЬ ИЗМЕНИТЬ
+REFERRAL_BONUS=500
+
+# URL для веб-хуков - ВРЕМЕННО ОСТАВЛЯЕМ ПУСТЫМ
+WEBHOOK_URL=http://localhost:8000
+
+# Системное сообщение для OpenAI - ЗАМЕНИ НА СВОЕ
+OPENAI_SYSTEM_MESSAGE=Ты полезный ассистент. Отвечай кратко и по делу.
+
+# Username бота (без @) - ЗАМЕНИ НА СВОЙ
+BOT_USERNAME=Trdfnthbyfbot
+
+# Режим разработки - ставь TRUE для тестирования без реальной оплаты
+DEV_MODE=TRUE
+
+# Ссылка на курс - ЗАМЕНИ НА СВОЮ
+COURSE_URL=https://example.com/course
+
+# Название курса - ЗАМЕНИ НА СВОЕ
+COURSE_NAME=Полный курс по нейросетям
+
+# Ссылка на политику конфиденциальности - ЗАМЕНИ НА СВОЮ
+PRIVACY_POLICY_URL=https://example.com/privacy
+
+# Название компании для политики - ЗАМЕНИ НА СВОЕ
+COMPANY_NAME=ООО "Ваша Компания"
+
+# ИНН компании - ЗАМЕНИ НА СВОЙ
+COMPANY_INN=1234567890
